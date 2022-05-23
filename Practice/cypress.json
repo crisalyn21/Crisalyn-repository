@@ -1,0 +1,7 @@
+{
+    "testFiles": "**/*.feature",
+      "ignoreTestFiles": "*.ts",
+      "chromeWebSecurity": false,
+      "baseUrl": "https://dev-identifi.vercel.app/ "
+  }
+  
